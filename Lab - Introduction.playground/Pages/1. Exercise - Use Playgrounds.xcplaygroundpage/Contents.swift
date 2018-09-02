@@ -10,13 +10,18 @@ print("How to use playgrounds to make writing Swift fun and simple")
 /*:
  Now print your own phrases to the console. Pick one of your favorite songs. Use your knowledge of the `print` function to display the song title and artist.
  */
-
+print("Starlight Star-Shine")
+print("Steam Powered Giraffe")
 
 /*:
  Use multiple `print` functions to write out some of the lyrics to the song.
  */
-
-
+print("Starlight, starshine, please come back into my life")
+print("You left me all alone, can't you see that my, heart's your home")
+print("There's a void in my soul (and it leaves me feeling cold)")
+print("Will I ever find peace from it's tolls")
+print("Starlight, starshine, all of my mind couldn't unwind")
+print("What it was, what it'll be, what future can I hope to see")
 
 /*:
  
